@@ -1,0 +1,7 @@
+com\iqreate\demo\security\CustomUserDetailsService.class
+com\iqreate\demo\repository\UserRepository.class
+com\iqreate\demo\controller\AuthController.class
+com\iqreate\demo\security\SecurityConfig.class
+com\iqreate\demo\DemoApplication.class
+com\iqreate\demo\model\User.class
+com\iqreate\demo\dto\LoginRequest.class
